@@ -1,0 +1,42 @@
+@media screen and (max-width:600px) {
+ nav{
+  display: none; 
+ }
+ .innermain2 {
+  gap: 30px;
+ }
+ .main1 {
+  height: 50vh;
+ }
+ .upermain3 {
+  width: 100%;
+  padding: 0;
+ }
+ .cards {
+  flex-direction: column;
+ }
+ .card{
+  width: 100%;
+ }
+ .innermain4 {
+  width: 100%;
+ }
+ .heading4 {
+  width: 100%;
+ }
+ .sidemain4 {
+width: 100%; 
+}
+.rightimg {
+width: 100%;
+}
+.uppermain6 {
+  flex-direction: column;
+  /* gap: 10px; */
+}
+.list2{
+  width: 100%;
+}
+}
+/*imp point*/
+/* display block par bad ma display none kai ho to transition work nhi krti */
